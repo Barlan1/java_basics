@@ -13,3 +13,4 @@ class Average
  int avg= obj.findAvg(12,13,14,15);
  System.out.println("the average of 12,13,14,15 is:" + avg);
  }
+} 
