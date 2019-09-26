@@ -5,9 +5,9 @@ public void myAge()
  age = age + 16;
  Stystem.out.println(" my age is : " + age);
  }
- public static void main(System args[])
+ public static void main(String args[])
  {
   myDetails obj = new myDetails();
-  obj.StudentAge();
+  obj.myAge();
   }
   
