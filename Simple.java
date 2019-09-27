@@ -4,3 +4,9 @@ public class Simple {
   System.out.println(" Welcome to package");
   }
  }
+
+
+// to compile without IDE 
+// javac -d . Simple.java
+//to run 
+// java Simple.java
