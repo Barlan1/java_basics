@@ -1,4 +1,5 @@
 # java_basics
+te following program are for learning purpose only, taken from different sources;
 
 installing java on ubantu
  
